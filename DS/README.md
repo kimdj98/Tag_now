@@ -1,3 +1,3 @@
 
 # DataScience
-code for datascience
+Code for Datascience
